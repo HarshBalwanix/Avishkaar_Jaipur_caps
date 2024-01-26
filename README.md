@@ -67,6 +67,6 @@ In addressing the challenges associated with obtaining feedback on police operat
 - **Harsh Balwani** – Frontend Development and deployment.
 - **Aneesh Rijhwani** – Backend Development and deployment.
 
-#Updates
+# Updates
 Till now we are completing the ui/ux and front end of the project.
 And now we are working in backend of this project.
