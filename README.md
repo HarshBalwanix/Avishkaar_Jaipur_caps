@@ -69,4 +69,5 @@ In addressing the challenges associated with obtaining feedback on police operat
 
 # Updates
 Till now we are completing the ui/ux and front end of the project.
+Routes are ready now.
 And now we are working in backend of this project.
